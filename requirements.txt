@@ -18,3 +18,4 @@ python-jose[cryptography]
 # Testing
 pytest
 requests
+httpx
