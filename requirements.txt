@@ -3,6 +3,7 @@
 # Core Framework
 fastapi
 uvicorn[standard]
+python-multipart
 
 # Database (SQLAlchemy ORM + PostgreSQL Driver)
 sqlalchemy
